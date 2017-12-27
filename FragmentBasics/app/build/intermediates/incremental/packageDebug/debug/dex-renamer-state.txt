@@ -1,0 +1,4 @@
+#Fri Nov 10 18:49:03 CST 2017
+base.0=D\:\\CODE\\Android\\FragmentBasics\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\CODE\\Android\\FragmentBasics\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
